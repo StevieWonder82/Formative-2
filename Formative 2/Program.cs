@@ -6,7 +6,7 @@ namespace Formative_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Formative Assessment 2");
         }
     }
 }
